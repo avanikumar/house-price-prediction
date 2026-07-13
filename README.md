@@ -2,10 +2,10 @@
 A beginner-friendly project to predict house prices based on various factors such as square footage, number of bedrooms, location, and more. This project walks through data exploration, linear regression, and gradient boosting to compare model performance.
 
 📂 PROJECT STRUCTURE:
--data/:Dataset used for training and testing
--house_price_prediction.ipynb:Main Jupyter Notebook with all code
--requirements.txt:Python dependencies
--README.md:Project documentation
+data/:Dataset used for training and testing
+house_price_prediction.ipynb:Main Jupyter Notebook with all code
+requirements.txt:Python dependencies
+README.md:Project documentation
 
 📊DATASET:
 
